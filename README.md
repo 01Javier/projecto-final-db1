@@ -163,14 +163,13 @@ Construir un sistema simple de gestión de biblioteca universitaria con frontend
 
 ### Todos Juntos - Empujón Final
 
-**Semana 4:**
 
 - Arreglar bugs encontrados durante la integración
 - Asegurar que todas las funciones trabajen juntas
 - Pulir los flujos de usuario más importantes
 - Preparar datos de demostración (libros, usuarios, préstamos de ejemplo)
 
-**Semana 5:**
+
 
 - Arreglos finales de bugs
 - Practicar la presentación de la demo
